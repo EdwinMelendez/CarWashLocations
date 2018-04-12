@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarWashLocations</string>
+    <string name="title_activity_maps">Car Wash</string>
+    <string name="magnify_icon">magnifyIcon</string>
+
+    <string name="address_snippet"><b>Address: </b></string>
+    <string name="phone_number_snippet"><b>Phone Number: </b></string>
+    <string name="website_snippet"><b>Website: </b></string>
+    <string name="price_rating_snippet"><b>Price Rating: </b></string>
+</resources>
